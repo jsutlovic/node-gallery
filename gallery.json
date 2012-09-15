@@ -1,0 +1,9 @@
+{
+	"static": {
+		"mount"    : "/static",
+		"dir"      : "static",
+		"absolute" : false
+	},
+	
+	"imgroot": "images/Ducati"
+}
